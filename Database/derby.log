@@ -1,0 +1,81 @@
+Wed Jun 11 12:25:37 CEST 2014 : Apache Derby Network Server - 10.8.2.2 - (1181258) se ha iniciado y está listo para aceptar conexiones en el puerto 1527
+----------------------------------------------------------------
+Wed Jun 11 12:25:39 CEST 2014:
+ Arrancando Derby versión The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instancia a816c00e-0146-8a76-15c2-00000e4bea00 
+en el directorio de base de datos C:\ANTO\workspace\JavaExcel\Java_Excel\Database\CustomerData  con el cargador de clases sun.misc.Launcher$AppClassLoader@66cf9bf0
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_15-b03
+user.dir=C:\Program Files\Java\jdk1.7.0_15\db
+derby.system.home=C:\ANTO\workspace\JavaExcel\Java_Excel\Database
+Cargador de clases de base de datos iniciado - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Jun 11 12:25:59 CEST 2014:
+Cerrando la instancia a816c00e-0146-8a76-15c2-00000e4bea00 en el directorio de base de datos C:\ANTO\workspace\JavaExcel\Java_Excel\Database\CustomerData con cargador de clases sun.misc.Launcher$AppClassLoader@66cf9bf0
+Wed Jun 11 12:25:59 CEST 2014 Thread[DRDAConnThread_4,5,main] (DATABASE = CustomerData), (DRDAID = {2}), Conclusión de la base de datos 'CustomerData'.
+----------------------------------------------------------------
+Wed Jun 11 12:35:50 CEST 2014:
+ Arrancando Derby versión The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instancia 6c44409f-0146-8a76-15c2-00000e4bea00 
+en el directorio de base de datos C:\ANTO\workspace\JavaExcel\Java_Excel\Database\CustomerData  con el cargador de clases sun.misc.Launcher$AppClassLoader@66cf9bf0
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_15-b03
+user.dir=C:\Program Files\Java\jdk1.7.0_15\db
+derby.system.home=C:\ANTO\workspace\JavaExcel\Java_Excel\Database
+Cargador de clases de base de datos iniciado - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Jun 11 12:36:53 CEST 2014:
+Cerrando la instancia 6c44409f-0146-8a76-15c2-00000e4bea00 en el directorio de base de datos C:\ANTO\workspace\JavaExcel\Java_Excel\Database\CustomerData con cargador de clases sun.misc.Launcher$AppClassLoader@66cf9bf0
+Wed Jun 11 12:36:53 CEST 2014 Thread[DRDAConnThread_4,5,main] (DATABASE = CustomerData), (DRDAID = {4}), Conclusión de la base de datos 'CustomerData'.
+----------------------------------------------------------------
+Wed Jun 11 12:37:22 CEST 2014:
+ Arrancando Derby versión The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instancia 109f00b9-0146-8a76-15c2-00000e4bea00 
+en el directorio de base de datos C:\ANTO\workspace\JavaExcel\Java_Excel\Database\CustomerData  con el cargador de clases sun.misc.Launcher$AppClassLoader@66cf9bf0
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_15-b03
+user.dir=C:\Program Files\Java\jdk1.7.0_15\db
+derby.system.home=C:\ANTO\workspace\JavaExcel\Java_Excel\Database
+Cargador de clases de base de datos iniciado - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Jun 11 12:37:32 CEST 2014:
+Cerrando la instancia 109f00b9-0146-8a76-15c2-00000e4bea00 en el directorio de base de datos C:\ANTO\workspace\JavaExcel\Java_Excel\Database\CustomerData con cargador de clases sun.misc.Launcher$AppClassLoader@66cf9bf0
+Wed Jun 11 12:37:32 CEST 2014 Thread[DRDAConnThread_4,5,main] (DATABASE = CustomerData), (DRDAID = {6}), Conclusión de la base de datos 'CustomerData'.
+----------------------------------------------------------------
+Wed Jun 11 12:37:42 CEST 2014:
+ Arrancando Derby versión The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instancia 7d03414a-0146-8a76-15c2-00000e4bea00 
+en el directorio de base de datos C:\ANTO\workspace\JavaExcel\Java_Excel\Database\CustomerData  con el cargador de clases sun.misc.Launcher$AppClassLoader@66cf9bf0
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_15-b03
+user.dir=C:\Program Files\Java\jdk1.7.0_15\db
+derby.system.home=C:\ANTO\workspace\JavaExcel\Java_Excel\Database
+Cargador de clases de base de datos iniciado - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Jun 11 12:37:59 CEST 2014:
+Cerrando la instancia 7d03414a-0146-8a76-15c2-00000e4bea00 en el directorio de base de datos C:\ANTO\workspace\JavaExcel\Java_Excel\Database\CustomerData con cargador de clases sun.misc.Launcher$AppClassLoader@66cf9bf0
+Wed Jun 11 12:37:59 CEST 2014 Thread[DRDAConnThread_4,5,main] (DATABASE = CustomerData), (DRDAID = {8}), Conclusión de la base de datos 'CustomerData'.
+----------------------------------------------------------------
+Wed Jun 11 12:38:23 CEST 2014:
+ Arrancando Derby versión The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instancia 3f750169-0146-8a76-15c2-00000e4bea00 
+en el directorio de base de datos C:\ANTO\workspace\JavaExcel\Java_Excel\Database\CustomerData  con el cargador de clases sun.misc.Launcher$AppClassLoader@66cf9bf0
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_15-b03
+user.dir=C:\Program Files\Java\jdk1.7.0_15\db
+derby.system.home=C:\ANTO\workspace\JavaExcel\Java_Excel\Database
+Cargador de clases de base de datos iniciado - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Jun 11 12:38:32 CEST 2014:
+Cerrando la instancia 3f750169-0146-8a76-15c2-00000e4bea00 en el directorio de base de datos C:\ANTO\workspace\JavaExcel\Java_Excel\Database\CustomerData con cargador de clases sun.misc.Launcher$AppClassLoader@66cf9bf0
+Wed Jun 11 12:38:32 CEST 2014 Thread[DRDAConnThread_4,5,main] (DATABASE = CustomerData), (DRDAID = {10}), Conclusión de la base de datos 'CustomerData'.
+----------------------------------------------------------------
+Wed Jun 11 12:38:41 CEST 2014:
+ Arrancando Derby versión The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instancia 44c541fa-0146-8a76-15c2-00000e4bea00 
+en el directorio de base de datos C:\ANTO\workspace\JavaExcel\Java_Excel\Database\CustomerData  con el cargador de clases sun.misc.Launcher$AppClassLoader@66cf9bf0
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_15-b03
+user.dir=C:\Program Files\Java\jdk1.7.0_15\db
+derby.system.home=C:\ANTO\workspace\JavaExcel\Java_Excel\Database
+Cargador de clases de base de datos iniciado - derby.database.classpath=''
